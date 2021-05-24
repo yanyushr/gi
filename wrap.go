@@ -1,4 +1,4 @@
-package gg
+package gi
 
 import (
 	"strings"

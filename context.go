@@ -1,5 +1,5 @@
-// Package gg provides a simple API for rendering 2D graphics in pure Go.
-package gg
+// package gi provides a simple API for rendering 2D graphics in pure Go.
+package gi
 
 import (
 	"errors"
